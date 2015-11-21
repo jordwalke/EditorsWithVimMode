@@ -13,7 +13,7 @@ No Vim emulator perfectly recreates Vim's keybindings, except perhaps Emacs' vim
 
 #####Atom
 
-- (VimModePlus)[https://github.com/t9md/atom-vim-mode-plus] is a very faithful recreation of the core Vim keybindings. At the time of writing, it has fewer bugs than the more popular Vim bindings for Atom.
+- [`vim-mode-plus`](https://github.com/t9md/atom-vim-mode-plus) is a very faithful recreation of the core Vim keybindings. At the time of writing, it has fewer bugs than the more popular Vim bindings for Atom.
 
 #####Vico
 
