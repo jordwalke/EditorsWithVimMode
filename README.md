@@ -3,13 +3,17 @@ EditorsWithVimMode
 
 List and summary of all plugins that support a `Vim` keybinding mode. Please send pull requests when you discover a new project including a brief summary.
 
+No Vim emulator perfectly recreates Vim's keybindings, except perhaps Emacs' vim bindings. Specifically, every other Vim emulator does not correctly recreate Vim's undo/redo editing experience which is just as much part of the Vim editing experience as movement commands. 
+
 
 
 #####VisualStudio
 
 - `ViEmu` provides excellent support http://www.viemu.com/blog/.
 
+#####Atom
 
+- (VimModePlus)[https://github.com/t9md/atom-vim-mode-plus] is a very faithful recreation of the core Vim keybindings. At the time of writing, it has fewer bugs than the more popular Vim bindings for Atom.
 
 #####Vico
 
