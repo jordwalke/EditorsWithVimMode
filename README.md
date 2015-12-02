@@ -33,9 +33,12 @@ No Vim emulator perfectly recreates Vim's keybindings, except perhaps Emacs' vim
 
 - `Vintage` plugin is crtically broken and not well supported.
 
-
-
-
 #####Vim
 
 - Perfectly supports Vim's keyboard mappings and commands, but has obscure scripting language.
+
+# Works In Progress
+
+#####VSCodeVim
+
+- [VSCodeVim](https://github.com/VSCodeVim/Vim) is just beginning development.
